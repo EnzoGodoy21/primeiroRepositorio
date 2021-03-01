@@ -1,8 +1,12 @@
-A:
+﻿A:
 Abacaxi
 Amora
 
-M:
+B:
+Banana
+Bergamota
 
+M:
 Melão
+Melancia
 
